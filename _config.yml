@@ -85,10 +85,9 @@ author:
   bio              : "PhD candidate in Computer Engineering at Northeastern university"
   location         : "Boston, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7kAIWHEAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "salehihikouei.b@northeastern.edu"
+  researchgate     :  "https://www.researchgate.net/scientific-contributions/Batool-Salehi-2185811585"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +99,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         :"https://www.linkedin.com/in/batool-salehi-49a174206/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
