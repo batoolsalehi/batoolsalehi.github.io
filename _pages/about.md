@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Electrical and Computer Engineering Department, Northeastern University, Boston, MA. I work at GENESYS research Lab under the guidance of Professor Kaushik Chowdhury. My research interests are wireless communication and machine learning.
+I am a PhD candidate at the Electrical and Computer Engineering Department, Northeastern University, Boston, MA. I work at GENESYS research Lab under the guidance of Professor Kaushik Chowdhury. My work lies at the intersection of Deep Learning and Wireless Communications, especially related to the applications of DL to PHY layer communication.
 
 A data-driven personal website
 ======
