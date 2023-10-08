@@ -12,8 +12,8 @@ I am a PhD candidate at the Electrical and Computer Engineering Department, Nort
 
 Research Experiences
 ------
-• Multimodal Deep Learning with Fusion for mmWave Beam Selection
-• Federated Learning for Collaborative Learning over Distributed IoT Devices
-• Model Pruning for Communication Efficient Deep Learning and Lifelong Learning
-• Open-world Class Discovery for Adaptive Deep Learning Methods
-• RF Fingerprinting using Convolutional Neural Networks
+• Multimodal Deep Learning with Fusion for mmWave Beam Selection \\
+• Federated Learning for Collaborative Learning over Distributed IoT Devices \\
+• Model Pruning for Communication Efficient Deep Learning and Lifelong Learning \\
+• Open-world Class Discovery for Adaptive Deep Learning Methods\\
+• RF Fingerprinting using Convolutional Neural Networks\\
