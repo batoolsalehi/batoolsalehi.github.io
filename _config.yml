@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nasim Soltani"
+title                    : "Batool Salehi"
 title_separator          : "-"
-name                     : &name "Nasim Soltani"
+name                     : &name "Batool Salehi"
 description              : &description "personal description"
-url                      : https://nasimsoltani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://batoolsalehi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nasimsoltani/nasimsoltani.github.io"
+repository               : "batoolsalehi/batoolsalehi.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nasim Soltani"
-  avatar           : "profile.png"
+  name             : "Batool Salehi"
+  avatar           : ""
   bio              : "PhD candidate in Computer Engineering at Northeastern university"
   location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=XiXOUsMAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=7kAIWHEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nasimsoltani"
+  github           : "https://github.com/batoolsalehi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nasim-soltani-neu/"
-  orcid            : "https://orcid.org/0000-0002-8709-653X"
+  linkedin         : "https://www.linkedin.com/in/batool-salehi-49a174206/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
