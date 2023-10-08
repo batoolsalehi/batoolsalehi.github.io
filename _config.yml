@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/batool-salehi-49a174206/"
+  linkedin         : "https://www.linkedin.com/in/batool-salehi-49a174206/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -232,17 +232,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: flase
+      comment: flase
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: flase
 
 # Sass/SCSS
 sass:
