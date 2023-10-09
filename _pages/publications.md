@@ -11,7 +11,7 @@ author_profile: true
 * **Batool Salehi**, M Belgiovine, SG Sanchez, J Dy, S Ioannidis, K Chowdhury, "Machine Learning on Camera Images for Fast mmWave Beamforming", IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS) 2020. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9356065)
 
 Papers under Review:
----
+
 * **Batool Salehi**, U Demir, D Roy, S Pradhan, J Dy, S Ioannidis, K Chowdhury, "Multiverse at the Edge: Interacting Real World and Digital Twins for Wireless Beamforming", [pdf](https://browse.arxiv.org/pdf/2305.10350.pdf)
 
 * **Batool Salehi**, J Gu, D Roy, C. Dick, K Chowdhury, "FLASH-and-Prune: Federated Learning for Automated Selection of High-band mmWave Sectors using Model Pruning".
