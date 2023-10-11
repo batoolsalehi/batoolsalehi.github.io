@@ -14,8 +14,6 @@ author_profile: true
 
 * D. Roy, **B. Salehi**, S. Banou, S. Mohanti, G. Reus-Muns, M. Belgiovine,P. Ganesh, C. Dick, K. Chowdhury, “Going beyond RF: A survey on how AI-enabled multimodal beamforming will shape the NextG standard”, Computer Networks (2023). [pdf](https://www.sciencedirect.com/science/article/pii/S1389128623001743)
 
-* **B. Salehi**, M. Belgiovine, S. Garcia Sanchez, J. Dy, S. Ioannidis, K. Chowdhury, “Machine Learning on Camera Images for Fast mmWave Beamforming” IEEE International Conference of Mobile Ad-Hoc and Smart Systems (MASS 2020). [pdf] (https://ieeexplore.ieee.org/abstract/document/9356065)
-
 *  N. Soltani, G. Reus-Muns, **B. Salehi**, J. Dy, S. Ioannidis, K. Chowdhury, ”RF Fingerprinting Unmanned Aerial Vehicles with Non-standard Transmitter Waveforms” IEEE Transactions on Vehicular Technology. (pdf) [https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2020/UAV_TVT-2.pdf]
 
   
@@ -26,8 +24,6 @@ Papers under Review:
 * **B. Salehi**, U. Demir, D. Roy, S. Pradhan, J. Dy, S. Ioannidis, K. Chowdhury, "Multiverse at the Edge: Interacting Real World and Digital Twins for Wireless Beamforming", [pdf](https://browse.arxiv.org/pdf/2305.10350.pdf)
 
 * **B. Salehi**, J. Gu, D. Roy, C. Dick, K. Chowdhury, "FLASH-and-Prune: Federated Learning for Automated Selection of High-band mmWave Sectors using Model Pruning", (in collaboration with NVIDIA INC).
-
-* **B. Salehi**, J. Gu, D. Roy, C. Dick, K. Chowdhury, “FLASH-and-Prune: Federated Learning for Automated Selection of High-band mmWave Sectors using Model Pruning”, under review, (in collaboration with NVIDIA INC).
 
 * **B. Salehi**, D. Roy, T. Jian, C. Dick, S. Ioannidis, K. Chowdhury "Omi-CNN: A Modality-agnostic Neural Network for mmWave Beam Selection", under review, (in collaboration with NVIDIA INC).
 
