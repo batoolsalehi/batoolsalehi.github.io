@@ -23,7 +23,5 @@ Research Experiences
 - Open-world Class Discovery for Expanding Deep Learning Models to Unseen Classes
 
 - RF Fingerprinting using Convolutional Neural Networks
-<!---
-- Maryam Salehi likes Scallywaggy and Stephen. The feeling is mututal ammongst all parties. :) 
--->
+
 
