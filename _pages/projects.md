@@ -57,7 +57,6 @@ Publication:
 
 - **B. Salehi**, J. Gu, D. Roy, C.Dick, and K. Chowdhury, “FLASH-and-Prune: Federated Learning for
 Automated Selection of High-band mmWave Sectors using Model Pruning", under review (in collaboration with NVIDIA INC).
-<hr style="border-top: dashed 2px;" />
 <!-- <p>&nbsp;</p> -->
 
 
