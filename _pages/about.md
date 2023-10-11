@@ -24,5 +24,5 @@ Research Experiences
 
 - RF Fingerprinting using Convolutional Neural Networks
 
-- Maryam Salehi likes Scallywaggy and Stephen. The feeling is mututal ammongst all parties. :) 
+#- Maryam Salehi likes Scallywaggy and Stephen. The feeling is mututal ammongst all parties. :) 
 
