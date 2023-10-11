@@ -14,7 +14,7 @@ Research Experiences
 ------
 - Interacting Real World and Digital Twins for Wireless Communication
   
-- Federated Learning for Collaborative Learning over Distributed IoT Devices
+- Federated Learning over Distributed IoT Devices 
   
 - Model Pruning for Communication Efficient Deep Learning and Lifelong Learning
   
