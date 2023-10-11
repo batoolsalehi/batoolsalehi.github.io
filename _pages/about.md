@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Electrical and Computer Engineering Department, Northeastern University, Boston, MA. I work at GENESYS research Lab under the guidance of Professor Kaushik Chowdhury. My work lies at the intersection of Deep Learning and Wireless Communications, especially related to the applications of DL to PHY layer communication.
+I am a PhD candidate at the Electrical and Computer Engineering Department, [Northeastern University](https://www.northeastern.edu), Boston, MA. I work at [GENESYS](https://genesys-lab.org) research Lab under the guidance of Professor [Kaushik Chowdhury](https://coe.northeastern.edu/people/chowdhury-kaushik/). My work lies at the intersection of Deep Learning and Wireless Communications, especially related to the applications of DL to PHY layer communication.
 
 Research Experiences
 ------
