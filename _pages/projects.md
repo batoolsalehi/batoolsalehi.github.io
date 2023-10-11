@@ -48,7 +48,7 @@ Publication:
 
 
 **Federated Learning for Sector Selection in Vehicular Networks**
-<img align="right" width="50%" src="/images/multimodalbeamforming.png">
+<img align="right" width="50%" src="/images/flash.png">
 <div style="text-align: justify; font-size: 16px">Fast sector-steering in the mmWave band for vehicular mobility scenarios remains an open challenge. This is because standard-defined exhaustive search over predefined antenna sectors cannot be assuredly completed within short contact times. This paper proposes machine learning to speed up sector selection using data from multiple non-RF sensors, such as LiDAR, GPS, and camera images. The contributions in this paper are threefold: First, a multimodal deep learning architecture is proposed that fuses the inputs from these data sources and locally predicts the sectors for best alignment at a vehicle. Second, it studies the impact of missing data (e.g., missing LiDAR/images) during inference, which is possible due to unreliable control channels or hardware malfunction. Third, it describes the first-of-its-kind multimodal federated learning framework that combines model weights from multiple vehicles and then disseminates the final fusion architecture back to them, thus incorporating private sharing of information and reducing their individual training times. We validate the proposed architectures on a live dataset collected from an autonomous car equipped with multiple sensors (GPS, LiDAR, and camera) and roof-mounted Talon AD7200 60GHz mmWave radios. We observe 52.75% decrease in sector selection time than 802.11ad standard while maintaining 89.32% throughput with the globally optimal solution.</div>
 
 Publication:
