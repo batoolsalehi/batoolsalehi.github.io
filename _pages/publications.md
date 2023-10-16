@@ -14,7 +14,7 @@ author_profile: true
 
 * D. Roy, **B. Salehi**, S. Banou, S. Mohanti, G. Reus-Muns, M. Belgiovine,P. Ganesh, C. Dick, K. Chowdhury, “Going beyond RF: A survey on how AI-enabled multimodal beamforming will shape the NextG standard”, Computer Networks (2023). [pdf](https://www.sciencedirect.com/science/article/pii/S1389128623001743)
 
-*  N. Soltani, G. Reus-Muns, **B. Salehi**, J. Dy, S. Ioannidis, K. Chowdhury, ”RF Fingerprinting Unmanned Aerial Vehicles with Non-standard Transmitter Waveforms” IEEE Transactions on Vehicular Technology. (pdf) [https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2020/UAV_TVT-2.pdf]
+*  N. Soltani, G. Reus-Muns, **B. Salehi**, J. Dy, S. Ioannidis, K. Chowdhury, ”RF Fingerprinting Unmanned Aerial Vehicles with Non-standard Transmitter Waveforms” IEEE Transactions on Vehicular Technology. [pdf] (https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2020/UAV_TVT-2.pdf)
 
   
 
